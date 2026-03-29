@@ -1,0 +1,36 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mukuvisi River"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.0672,
+            -17.8377
+          ],
+          [
+            31.02,
+            -17.85
+          ],
+          [
+            30.98,
+            -17.88
+          ],
+          [
+            30.93,
+            -17.91
+          ],
+          [
+            30.89,
+            -17.94
+          ]
+        ]
+      }
+    }
+  ]
+}

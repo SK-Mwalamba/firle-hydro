@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Firle WWTP",
+        "city": "Harare",
+        "country": "Zimbabwe"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.062,
+              -17.842
+            ],
+            [
+              31.072,
+              -17.842
+            ],
+            [
+              31.072,
+              -17.833
+            ],
+            [
+              31.062,
+              -17.833
+            ],
+            [
+              31.062,
+              -17.842
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

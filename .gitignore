@@ -1,0 +1,4 @@
+data/spatial/harare_dem_srtm.tif
+__pycache__/
+*.pyc
+*.pdb
